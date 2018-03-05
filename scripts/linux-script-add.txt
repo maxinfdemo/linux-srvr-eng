@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding a line on local repo
+=======
+adding a line in origin
+>>>>>>> ad77a9d6d5f2c8be139d0b7df465e03a8556d875
