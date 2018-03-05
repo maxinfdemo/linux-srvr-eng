@@ -1,8 +1,5 @@
 
 adding a line on local repo
 adding a line in origin
-<<<<<<< HEAD
 line 2 local repo
-=======
 line 2 origin
->>>>>>> 2016535bf6d9798260dc60a127ac789c20e8f1e5
